@@ -1,0 +1,4 @@
+{
+    "DockerRun.DisableDockerrc": true,
+    "cmake.sourceDirectory": "D:/projects/flutter dev/projects/demo/styleandcustomwidgetdemo/windows/flutter"
+}
